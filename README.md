@@ -19,4 +19,4 @@ This repository contains verified certificates I’ve earned in programming, clo
 
 | Internship Role | Company | Duration | View |
 |-----------------|---------|----------|------|
-| AWS Development & DevOps Intern | Technical Hub Pvt. Ltd. | May 2025 – June 2025 | [View Offer Letter](./Certificate_Of_Internship_TechnicalHub_May2025.pdf) |
+| AWS Development & DevOps Intern | Technical Hub Pvt. Ltd. | May 2025 – June 2025 | [View Certificate](./Certificate_Of_Internship_TechnicalHub_May2025.pdf) |

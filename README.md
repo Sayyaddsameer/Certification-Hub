@@ -13,9 +13,10 @@ This repository contains verified certificates I’ve earned in programming, clo
 | SQL Intermediate | HackerRank | February 2025 | [View PDF](./HackerRank_SQL_Intermediate.pdf) |
 | Problem Solving Basic | HackerRank | March 2025 | [View PDF](./HackerRank_problem_solving_basic.pdf) |
 | Java Foundations Associate | Oracle | May 2025 | [View PDF](./Oracle_Java_Foundations_Associate_Certificate.pdf) |
+| RedHat Certified System Administrator | RedHat | June 2025 | [View PDF](./RedHat_Certified_System_Administrator.pdf) |
 
-## 📄 Internship Offer Letter
+## 📄 Internship Certificate
 
 | Internship Role | Company | Duration | View |
 |-----------------|---------|----------|------|
-| AWS Development & DevOps Intern | Technical Hub Pvt. Ltd. | May 2025 – June 2025 | [View Offer Letter](./Internship_OfferLetter_TechnicalHub_May2025.pdf) |
+| AWS Development & DevOps Intern | Technical Hub Pvt. Ltd. | May 2025 – June 2025 | [View Offer Letter](./Certificate_Of_Internship_TechnicalHub_May2025.pdf) |
